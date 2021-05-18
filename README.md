@@ -8,4 +8,3 @@
 - notes-api - A multi container Express API.
 - fullstack-notes-application - A full-stack CRUD application with [nginx](https://hub.docker.com/_/nginx/) as a reverse proxy.
 
-it
